@@ -4,10 +4,11 @@
 void testar(){
   //função de teste simples
   assert(1 == 1); //verifica se 1 é igual a 1
-  printf("Teste passou!\n");  
+  printf("Teste passou!\n"); 
+  printf("Testar!\n")
 }
 
-int main(){
+int main() {
   testar();
   return 0;
 }
